@@ -1,4 +1,4 @@
-### `click on Becom a mentor button to see dashboard screen`
+### `click on Become a mentor button to navigate on dashboard screen`
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
