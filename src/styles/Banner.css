@@ -1,0 +1,43 @@
+.headrMain {
+  height: 732px;
+  display: flex;
+  background: linear-gradient(rgba(192, 227, 252, 1), rgba(123, 226, 195, 0.8));
+}
+.leftContainer {
+  flex: 2;
+}
+.rightContainer {
+  flex: 1;
+  margin-top: "135px";
+}
+
+.heading {
+  font-weight: 600;
+  font-size: 70px;
+  line-height: 84.72px;
+}
+.paraHeader {
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 54.462px;
+  text-align: center;
+}
+.button {
+  background: url("../../public/images/btn.png");
+  width: 380px;
+  height: 97px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 36px;
+  color: #fff;
+}
+.btnContainer {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}

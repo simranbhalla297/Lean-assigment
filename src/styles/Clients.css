@@ -1,0 +1,57 @@
+.Clientheading {
+  font-size: 40px;
+  padding-top: 32px;
+  font-weight: 600;
+  line-height: 48.41px;
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100%;
+}
+.clientWrapper {
+  position: relative;
+  margin-top: 97px;
+  background-image: url("../../public/images/Union.png");
+  background-repeat: no-repeat;
+  width: 386px;
+  height: 300px;
+  margin-bottom: 80px;
+}
+
+.para {
+  position: absolute;
+  width: 298px;
+  height: 180px;
+  top: 60px;
+  left: 58px;
+  right: 28%;
+  bottom: 25px;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 18.15px;
+  color: #fff;
+}
+.clientInfo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.founderName {
+  color: rgba(61, 113, 150, 1);
+  margin-top: -25px;
+  margin-left: 25px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16.63px;
+  text-align: center;
+  width: 156px;
+}
+.para2 {
+  margin-right: 10px;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 26.63px;
+}

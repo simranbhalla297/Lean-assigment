@@ -1,0 +1,23 @@
+.Wrapper {
+  background: rgba(192, 227, 252, 1);
+  padding-bottom: 50px;
+}
+.container-main {
+  width: 80%;
+  margin: auto;
+}
+.top_heading,
+.headingTwo {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48.41px;
+  text-align: center;
+  padding-top: 20px;
+}
+.imageSection1,
+.imageSection2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  padding: 20px 0 20px 0;
+}

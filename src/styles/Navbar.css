@@ -1,0 +1,59 @@
+.navWrapper {
+  display: flex;
+  padding-left: 25px;
+  padding: 15px;
+  font-size: 16px;
+  box-shadow: 0px 7px 6px 0px rgba(0, 0, 0, 0.25);
+  position: relative;
+  z-index: 1;
+}
+.logo {
+  margin-right: 70px;
+}
+.navlink {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  align-items: center;
+  margin-right: 70px;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 36px;
+  cursor: pointer;
+}
+.navBtns {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 2;
+}
+
+.btn {
+  width: 144.03px;
+  height: 49.91px;
+  border-radius: 23px;
+  border: 2px solid rgba(0, 0, 0, 1);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30.26px;
+  margin-right: 16px;
+}
+.EarningBtns {
+  display: flex;
+  align-items: center;
+}
+.centerbtn {
+  width: 280px;
+  height: 52px;
+  border-radius: 18px;
+  border: 2px solid rgba(4, 126, 112, 1);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30.26px;
+  margin-right: 16px;
+}
+.btn:nth-child(2) {
+  background-color: rgba(4, 126, 112, 1);
+  border: none;
+  color: rgba(245, 245, 245, 1);
+}
